@@ -1,0 +1,24 @@
+record_id,patient_id,visit_date,symptoms,diagnosis,treatment,medication,tests,notes
+1001,1001,2025-11-27,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1002,1002,2025-11-27,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1003,1003,2025-11-27,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1004,1001,2025-12-11,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1005,1002,2025-12-11,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1006,1003,2025-12-11,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1007,1001,2025-12-11,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1008,1002,2025-12-11,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1009,1003,2025-12-11,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1010,1001,2025-12-11,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1011,1002,2025-12-11,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1012,1003,2025-12-11,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1013,1001,2025-12-11,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1014,1002,2025-12-11,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1015,1003,2025-12-11,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1016,1026,2025-12-11,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1017,1027,2025-12-11,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1018,1028,2025-12-11,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1019,1031,2025-12-11,"Chest pain, shortness of breath",Hypertension,Medication and lifestyle changes,Lisinopril 10mg daily,"ECG, Blood pressure monitoring",Follow up in 2 weeks
+1020,1032,2025-12-11,"Fever, cough, sore throat",Viral infection,Symptomatic treatment,Paracetamol 500mg,Throat swab,Rest and hydration recommended
+1021,1033,2025-12-11,"Knee pain, swelling",Arthritis,Physical therapy,Ibuprofen 400mg,X-ray knee,Schedule physical therapy sessions
+1022,1035,2025-12-12,diabetes,diabetes,rt,nj,sd,kl
+1023,1026,2025-12-12,low glucode,diabeted,jl,jk,as,kl

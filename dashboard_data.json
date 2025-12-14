@@ -1,0 +1,42 @@
+{
+  "patient_stats": {
+    "total_patients": 36,
+    "average_age": 39.833333333333336,
+    "min_age": 28,
+    "max_age": 60,
+    "gender_distribution": {
+      "Male": 22,
+      "Female": 14
+    },
+    "most_common_blood_group": "A+"
+  },
+  "appointment_stats": {
+    "total_appointments": 28,
+    "scheduled_appointments": 28,
+    "completed_appointments": 0,
+    "department_distribution": {
+      "Cardiology": 14,
+      "Pediatrics": 7,
+      "Orthopedics": 7
+    },
+    "top_department": "Cardiology"
+  },
+  "financial_stats": {
+    "total_revenue": 9050.0,
+    "total_bills": 36,
+    "pending_amount": 9050.0,
+    "paid_amount": 0.0,
+    "average_bill_amount": 251.38888888888889,
+    "most_profitable_service": "Tests"
+  },
+  "medical_stats": {
+    "total_medical_records": 21,
+    "diagnosis_distribution": {
+      "Hypertension": 7,
+      "Viral infection": 7,
+      "Arthritis": 7
+    },
+    "most_common_diagnosis": "Hypertension"
+  },
+  "timestamp": "2025-12-11 22:05:21"
+}
